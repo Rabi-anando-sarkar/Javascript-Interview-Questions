@@ -1,3 +1,4 @@
+// Method One
 
 const factorial = (num) => {
     let fact = 1
